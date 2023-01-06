@@ -16,4 +16,4 @@ You have to change variables in .env:
 
 AUTH0_DOMAIN, AUTH0_CLIENT_ID, AUTH0_SECRET, TWILIO_TOKEN
 
-![demo](https://github.com/khomin/flutter-oauth2-example/blob/master/demo.png)
+![demo](https://github.com/khomin/flutter-oauth2-example/blob/dev/demo.png)
